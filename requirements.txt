@@ -1,0 +1,7 @@
+# No pip packages required.
+# Everything uses Python stdlib (tkinter, urllib, subprocess, socket, re, json, os)
+# Voice recognition uses Windows built-in SAPI via PowerShell — no PyAudio needed
+# GPT calls use urllib — no openai package needed
+#
+# Just run:  python main.py
+
